@@ -1,0 +1,4 @@
+1、数据可视化（echarts）线上地址（http://echarts.baidu.com/dist/echarts.js）
+2、自己编写 VUE、react框架（仿脚手架，如：vue-cli webpack objname）
+3、node.js（express、koa2、egg.js）
+4、小程序
